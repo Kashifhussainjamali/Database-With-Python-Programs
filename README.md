@@ -2,4 +2,4 @@
 
 # Description:
 
-All codes Combining using Database with Python For improving Skills
+Some small projects combining using Database with Python For improving skills.
